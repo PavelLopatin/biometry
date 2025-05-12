@@ -1,0 +1,7 @@
+{
+    "rpc_url": "https://rpc.test.siberium.net",
+    "chain_id": 111000,
+    "network_name": "Siberium Testnet",
+    "explorer_url": "https://explorer.test.siberium.net",
+    "base_token": "SIBR"
+}

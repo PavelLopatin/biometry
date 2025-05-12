@@ -1,0 +1,14 @@
+uvicorn==0.27.1
+Django==5.0.2
+psycopg2
+redis==5.2.1
+djangoql==0.18.1
+web3==7.3.0
+dotenv
+django-ninja
+pydantic==2.11.2
+pydantic[email]
+django-cors-headers
+authlib
+httpx
+django-ninja-extra

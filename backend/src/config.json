@@ -1,0 +1,6 @@
+{
+  "rpc_url": "https://rpc.test.siberium.net",
+  "chain_id": 111000,
+  "simple_account_factory": "0x8aD765b7e7663A0ce95da54579d32Aab45dB1c2f",
+  "rub_address": "0x6690F3713B37833689d9F6041daE68246713390a"
+}

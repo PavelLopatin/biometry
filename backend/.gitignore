@@ -1,0 +1,5 @@
+static
+../.env
+venv
+.idea
+.venv

@@ -1,0 +1,90 @@
+.auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  width: 100%;
+}
+
+.auth-form-box {
+  background: white;
+  padding: 3rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  width: 100%;
+  max-width: 500px;
+}
+
+.auth-form-box h3 {
+  color: #1F1F1F;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-weight: 500;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.form-group label {
+  color: #1F1F1F;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: left;
+}
+
+.form-group input {
+  padding: 16px;
+  border: 1px solid #E5E5E5;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  transition: border-color 0.2s ease;
+}
+
+.form-group input:focus {
+  outline: none;
+  border-color: #21A038;
+}
+
+.submit-button {
+  background-color: #21A038;
+  color: white;
+  border: none;
+  padding: 16px;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin-top: 1rem;
+}
+
+.submit-button:hover {
+  background-color: #1C8A30;
+}
+
+.auth-form-footer {
+  margin-top: 2rem;
+  text-align: center;
+  color: #666;
+  font-size: 1rem;
+}
+
+.auth-form-footer a {
+  color: #21A038;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.auth-form-footer a:hover {
+  text-decoration: underline;
+} 
