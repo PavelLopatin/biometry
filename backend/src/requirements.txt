@@ -12,3 +12,4 @@ django-cors-headers
 authlib
 httpx
 django-ninja-extra
+whitenoise
