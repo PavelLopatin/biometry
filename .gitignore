@@ -10,7 +10,6 @@ history/
 # testing
 /coverage
 artifacts/
-cache/
 node_modules/
 .env
 Temp.txt
